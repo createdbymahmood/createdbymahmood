@@ -10,12 +10,11 @@ I'm a frontend developer.
 <br />
 
 
-- 🔭 I’m currently working on frontend development.<br />
-- 🌱 I’m currently learning Docker.<br />
-- 👯 I’m looking to collaborate on OpenSource github projects<br />
-- 💬 Ask me about frontends 😋<br />
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mahmudbagheri/)<br />
-- 🥅 2021 Goals: Contribute more to Open Source projects<br />
+- 🔭 I’m currently working on frontend projects. <br />
+- 🌱 I’m currently learning how to scale large web apps. <br />
+- 👯 I’m looking to collaborate on github open-source projects. <br />
+- 💬 Ask me about frontends 😋. <br />
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mahmudbagheri/). <br />
 
 ### Tools I'm using in my projects
 
