@@ -23,7 +23,6 @@ I'm a frontend developer.
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/html.svg" alt="html" width="25" height="25" />
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/css.svg" alt="css" width="25" height="25" />
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/tailwindcss.svg" alt="tailwindcss" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/bootstrap.svg" alt="bootstrap" width="25" height="25" />
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/react.svg" alt="react" width="25" height="25" />
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/eslint.svg" alt="eslint" width="25" height="25" />
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/jest.svg" alt="jest" width="25" height="25" />
