@@ -52,6 +52,6 @@ I'm a frontend developer.
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/git.svg" alt="github" width="25" height="25" />
 </p>
 
-![Mahmood's github stats](https://github-readme-stats.vercel.app/api?username=createdbymahmood&show_icons=true)
+![Mahmood's github stats](https://github-readme-stats.vercel.app/api?username=createdbymahmood&show_icons=true&layout=compact&hide_border=true&hide_title=true)
 ![Mahmood's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=createdbymahmood&hide=css,html&hide_title=true&hide_border=true&layout=compact)
 
