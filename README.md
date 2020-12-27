@@ -20,8 +20,10 @@ I'm a frontend developer.
 ## Tools
 
 <p align="left">
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/html.svg" alt="html" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/css.svg" alt="css" width="25" height="25" />
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/react.svg" alt="react" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/vue.svg" alt="angular-js" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/vue.svg" alt="vue-js" width="25" height="25" />
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/sass.svg" alt="sass" width="25" height="25" />
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/javascript.svg" alt="javascript" width="25" height="25" />
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/typescript.svg" alt="typescript" width="25" height="25" />
@@ -29,6 +31,10 @@ I'm a frontend developer.
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/netlify.svg" alt="netlify" width="25" height="25" />
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/vercel.svg" alt="netlify" width="25" height="25" />
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/heroku.svg" alt="heroku" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/webpack.svg" alt="webpack" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/vscode.svg" alt="vscode" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/npm.svg" alt="npm" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/yarn.svg" alt="heroku" width="25" height="25" />
 </p>
 
 ![Mahmood's github stats](https://github-readme-stats.vercel.app/api?username=createdbymahmood&show_icons=true)
