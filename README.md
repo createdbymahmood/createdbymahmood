@@ -17,7 +17,7 @@ I'm a frontend developer.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mahmudbagheri/)<br />
 - 🥅 2021 Goals: Contribute more to Open Source projects<br />
 
-# Tools I'm using in my projects
+### Tools I'm using in my projects
 
 <p align="left">
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/html.svg" alt="html" width="25" height="25" />
