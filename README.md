@@ -21,6 +21,9 @@ I'm a frontend developer.
 <p align="left">
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/html.svg" alt="html" width="25" height="25" />
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/css.svg" alt="css" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/javascript.svg" alt="javascript" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/nodejs.svg" alt="node-js" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/typescript.svg" alt="typescript" width="25" height="25" />
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/tailwindcss.svg" alt="tailwindcss" width="25" height="25" />
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/react.svg" alt="react" width="25" height="25" />
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/eslint.svg" alt="eslint" width="25" height="25" />
@@ -29,13 +32,10 @@ I'm a frontend developer.
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/prettier.svg" alt="prettier" width="25" height="25" />
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/postcss.svg" alt="postcss" width="25" height="25" />
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/rollup.svg" alt="rollup" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/nodejs.svg" alt="node-js" width="25" height="25" />
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/nodemon.svg" alt="nodemon" width="25" height="25" />
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/graphql.svg" alt="graphql" width="25" height="25" />
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/apollo.svg" alt="apollo" width="25" height="25" />
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/sass.svg" alt="sass" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/javascript.svg" alt="javascript" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/typescript.svg" alt="typescript" width="25" height="25" />
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/nodejs_alt.svg" alt="nodejs" width="25" height="25" />
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/netlify.svg" alt="netlify" width="25" height="25" />
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/vercel_light.svg" alt="netlify" width="25" height="25" />
