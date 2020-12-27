@@ -14,7 +14,7 @@ I'm a frontend developer.
 - 🌱 I’m currently learning how to scale large web apps. <br />
 - 👯 I’m looking to collaborate on github open-source projects. <br />
 - 💬 Ask me about frontends 😋. <br />
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mahmudbagheri/). <br />
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mahmudbagheri/), [Telegram](https://t.me/CreatedByMahmood), [Email](mailto:createdbymahmood@gmail.com) <br />
 
 ### Tools I'm using in my projects
 
