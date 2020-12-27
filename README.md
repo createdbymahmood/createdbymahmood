@@ -53,5 +53,5 @@ I'm a frontend developer.
 </p>
 
 ![Mahmood's github stats](https://github-readme-stats.vercel.app/api?username=createdbymahmood&show_icons=true)
-![Mahmood's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=createdbymahmood&hide=css,html)
+![Mahmood's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=createdbymahmood&hide=css,html&hide_title=true&hide_border=true&layout=compact)
 
