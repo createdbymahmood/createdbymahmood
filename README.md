@@ -17,40 +17,74 @@ I'm a frontend developer.
 ### Tools I'm using in my projects
 
 <p align="left">
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/html.svg" alt="html" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/css.svg" alt="css" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/javascript.svg" alt="javascript" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/nodejs.svg" alt="node-js" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/typescript.svg" alt="typescript" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/tailwindcss.svg" alt="tailwindcss" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/react.svg" alt="react" width="25" height="25" />
-<img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_light_next.svg" alt="next js" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/eslint.svg" alt="eslint" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/jest.svg" alt="jest" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/babel.svg" alt="babel" width="25" height="25" />
-<img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_styled.svg" alt="styled components" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/storybook.svg" alt="storybook" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/prettier.svg" alt="prettier" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/postcss.svg" alt="postcss" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/rollup.svg" alt="rollup" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/nodemon.svg" alt="nodemon" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/graphql.svg" alt="graphql" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/apollo.svg" alt="apollo" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/sass.svg" alt="sass" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/nodejs_alt.svg" alt="nodejs" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/netlify.svg" alt="netlify" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/vercel_light.svg" alt="netlify" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/heroku.svg" alt="heroku" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/webpack.svg" alt="webpack" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/vscode.svg" alt="vscode" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/npm.svg" alt="npm" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/yarn.svg" alt="heroku" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/commitlint.svg" alt="commitlint" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/husky.svg" alt="husky" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/handlebars.svg" alt="handlebars" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/markdown.svg" alt="markdown" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/i18n.svg" alt="i18n" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/git.svg" alt="github" width="25" height="25" />
+
+<img  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/html.svg"  alt="html"  width="25"  height="25"  />
+
+<img  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/css.svg"  alt="css"  width="25"  height="25"  />
+
+<img  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg"  alt="javascript"  width="25"  height="25"  />
+
+<img  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodejs.svg"  alt="node-js"  width="25"  height="25"  />
+
+<img  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/typescript.svg"  alt="typescript"  width="25"  height="25"  />
+
+<img  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/tailwindcss.svg"  alt="tailwindcss"  width="25"  height="25"  />
+
+<img  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg"  alt="react"  width="25"  height="25"  />
+
+<img  src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_light_next.svg"  alt="next js"  width="25"  height="25"  />
+
+<img  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/eslint.svg"  alt="eslint"  width="25"  height="25"  />
+
+<img  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/jest.svg"  alt="jest"  width="25"  height="25"  />
+
+<img  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/babel.svg"  alt="babel"  width="25"  height="25"  />
+
+<img  src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_styled.svg"  alt="styled components"  width="25"  height="25"  />
+
+<img  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/storybook.svg"  alt="storybook"  width="25"  height="25"  />
+
+<img  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/prettier.svg"  alt="prettier"  width="25"  height="25"  />
+
+<img  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/postcss.svg"  alt="postcss"  width="25"  height="25"  />
+
+<img  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/rollup.svg"  alt="rollup"  width="25"  height="25"  />
+
+<img  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodemon.svg"  alt="nodemon"  width="25"  height="25"  />
+
+<img  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/graphql.svg"  alt="graphql"  width="25"  height="25"  />
+
+<img  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/apollo.svg"  alt="apollo"  width="25"  height="25"  />
+
+<img  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/sass.svg"  alt="sass"  width="25"  height="25"  />
+
+<img  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodejs_alt.svg"  alt="nodejs"  width="25"  height="25"  />
+
+<img  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/netlify.svg"  alt="netlify"  width="25"  height="25"  />
+
+<img  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/vercel_light.svg"  alt="netlify"  width="25"  height="25"  />
+
+<img  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/heroku.svg"  alt="heroku"  width="25"  height="25"  />
+
+<img  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/webpack.svg"  alt="webpack"  width="25"  height="25"  />
+
+<img  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/vscode.svg"  alt="vscode"  width="25"  height="25"  />
+
+<img  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/npm.svg"  alt="npm"  width="25"  height="25"  />
+
+<img  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/yarn.svg"  alt="heroku"  width="25"  height="25"  />
+
+<img  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/commitlint.svg"  alt="commitlint"  width="25"  height="25"  />
+
+<img  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/husky.svg"  alt="husky"  width="25"  height="25"  />
+
+<img  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/handlebars.svg"  alt="handlebars"  width="25"  height="25"  />
+
+<img  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/markdown.svg"  alt="markdown"  width="25"  height="25"  />
+
+<img  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/i18n.svg"  alt="i18n"  width="25"  height="25"  />
+
+<img  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/git.svg"  alt="github"  width="25"  height="25"  />
 </p>
 
 ![Mahmood's github stats](https://github-readme-stats.vercel.app/api?username=createdbymahmood&show_icons=true&layout=compact&hide_border=true&hide_title=true)
