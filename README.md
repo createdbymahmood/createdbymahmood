@@ -12,7 +12,6 @@ I'm a frontend developer.
 
 - 🔭 I’m currently working on frontend projects. <br />
 - 💬 Ask me about frontends 😋. <br />
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/createdbymahmood), [Telegram](https://t.me/CreatedByMahmood), [Email](mailto:createdbymahmood@gmail.com) <br />
 
 ### Tools I'm using in my projects
 
