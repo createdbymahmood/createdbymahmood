@@ -8,8 +8,6 @@ Driven Frontend Engineer offering 5+ years of experience providing high-impact w
 Skilled in designing, developing, and testing multiple web-based applications incorporating a range of technologies.
 Aspiring to combine broad background with strong technical skills to excel as a Frontend Engineer.
 
-### Tools I'm using in my projects
-
 <p align="left">
 
 <img  src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/html.svg"  alt="html"  width="25"  height="25"  />
