@@ -1,17 +1,12 @@
-### Hi. 😁
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/createdbymahmood)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/createdbymahmood)
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=createdbymahmood&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/createdbymahmood/createdbymahmood?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 
-### Happy to see you here! 😍 
-I'm a frontend developer.
-<br />
 
+Driven Frontend Engineer offering 5+ years of experience providing high-impact web solutions, proficient in the modern JavaScript/TypeScript stack and its ecosystem. Interested in GraphQL and Frontend architectures that scale.
 
-- 🔭 I’m currently working on frontend projects. <br />
-- 💬 Ask me about frontends 😋. <br />
+Skilled in designing, developing, and testing multiple web-based applications incorporating a range of technologies.
+Aspiring to combine broad background with strong technical skills to excel as a Frontend Engineer.
 
 ### Tools I'm using in my projects
 
