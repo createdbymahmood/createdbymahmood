@@ -3,7 +3,7 @@
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/createdbymahmood/createdbymahmood?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 
 
-Driven Frontend Engineer offering 6+ years of experience providing high-impact web solutions, proficient in the modern JavaScript/TypeScript stack and its ecosystem. Interested in GraphQL and Frontend architectures that scale.
+Driven Frontend Engineer offering 7+ years of experience providing high-impact web solutions, proficient in the modern JavaScript/TypeScript stack and its ecosystem. Interested in GraphQL and Frontend architectures that scale.
 
 Skilled in designing, developing, and testing multiple web-based applications incorporating a range of technologies.
 Aspiring to combine broad background with strong technical skills to excel as a Frontend Engineer.
